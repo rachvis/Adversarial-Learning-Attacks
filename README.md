@@ -22,8 +22,8 @@ Examples: [HopSkipJump Attack](https://arxiv.org/abs/1904.02144), [Decision-base
 
 ## Sample Notebooks
 
-To understand more about these attacks, run the following jupyter notebooks. These notebooks are provided in this git repo under respective folders. Use the below links to open them. 
+To understand more about these attacks, run the following jupyter notebooks. These notebooks are provided in this git repo under respective folders. Use the below links to open them.
 
-Link to white box attacks(https://github.com/rachvis/Adversarial-Learning-Attacks/tree/master/White-Box-Attacks)
+[Link to white box attacks](https://github.com/rachvis/Adversarial-Learning-Attacks/tree/master/White-Box-Attacks)
 
-Link to black box Attacks(https://github.com/rachvis/Adversarial-Learning-Attacks/tree/master/Black-Box-Attacks)
+[Link to black box Attacks](https://github.com/rachvis/Adversarial-Learning-Attacks/tree/master/Black-Box-Attacks)
