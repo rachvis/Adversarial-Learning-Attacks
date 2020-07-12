@@ -1,9 +1,5 @@
 # Adversarial Learning Attacks
 
-Incorrectly implemented ML systems can lead to security and privacy issues. The severity of which depends on how critical the use case is. You might not want face recognition software to authenticate an adversary while a banana mis-classified as apple would not bother you much. It is critical to understand these types of flaws to help us build more and privacy centred and secure ML applications. Let's take a look at some commonly occurring flaws in ML systems in layman language.
-
-It involves generating a specially crafted input with an objective to be mis-classified by the target model. Theoretically it is always possible for an attacker to generate adversarial samples. Complexity of attack may differ based on the abstraction at which the model is operating. Specially designed algorithms are used to perturb a sample input. These perturbations cause the input to be mis-classified to unwanted class. Adversaries can choose to do targeted Adversarial learning attacks where the input will be classified to a specific class.
-
 ![](img/adversarial_threats_attacker.png)
 
 ## White box Adversarial Learning Attacks
